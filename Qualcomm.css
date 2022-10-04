@@ -1,0 +1,414 @@
+.header{
+    font-family: QualcommNext, Arial, sans-serif;
+}
+.logo{
+    float: left;
+    background-image: url("https://cdn.cookielaw.org/logos/b0a5f2cc-0b29-4907-89bf-3f6b380a03c8/0814c8dd-07ff-41eb-a1b0-ee0294137c9a/9ca69c31-5e86-432d-950c-cfa7fcaa3cc8/1280px-Qualcomm-Logo.svg.png");
+    height: 23px;
+    background-size: cover;
+    width: 130px;
+    margin-top: 22px;
+    margin-left: 40px;
+    float: left;
+    position: relative;
+    bottom: 75px;    
+}
+body{
+    margin: 0;
+}
+.nav{
+    color: #4a5a75;
+    float: left;
+    position: relative;
+    bottom: 75px;
+}
+.nav1{
+    margin-left: 563px;
+    margin-top: 22px;
+    float: left;
+}
+.nav2{
+    margin-left: 87px;
+    margin-top: 22px;
+    float: left;
+}
+.hyperlink{
+    text-decoration: none;
+    text-emphasis-color: gray;
+    color: gray;
+    font-size: 20px;
+}
+.headphoto{
+    background-image: url("https://s7d1.scene7.com/is/image/dmqualcommprod/v2_homepage-hero-image?fmt=webp-alpha&qlt=85&wid=2000&fit=fit,1");
+    background-size: cover;
+    height: 870px;
+    margin-top: 75px;
+    color: white;
+}
+.head_text1{
+    text-align: center;
+    font-size: 48px;
+    padding-top: 264px;
+}
+.head_text2{
+    text-align: center;
+    padding-top: 24px;
+    font-size: 20px;
+    line-height: 30px;
+}
+.head_button1{
+    padding-top: 32px;
+    padding-left: 872px;
+}
+.Button{
+    height: 50px;
+    width: 158px;
+    border-radius: 50px;    
+    color: #3253dc;
+    font-size: 16px;
+    line-height: 16px;
+    border-color: #3253dc;
+}
+
+.ref_one{
+    float: left;
+    background-color: #f6f8fa;
+    height: 536px;
+    width: 100%;
+}
+.heading1{
+    margin-left: 242px;
+    margin-top: 143px;
+    font-size: 48px;
+    line-height: 52px;
+}
+.date1{
+    margin-left: 242px;
+    font-size: 20px;
+    line-height: 25px;    
+}
+.text1{
+    margin-left: 242px;
+    font-size: 20px;
+    line-height: 30px;
+    color: #677283;   
+    margin-top: 26px; 
+}
+.button1{
+    margin-left: 242px;
+    margin-top: 35px;
+}
+.photo1
+{
+    float: right;
+    height: 347px;
+    width: 700px;
+    position: relative;
+    left: -138px;
+    bottom: 275px;
+}
+
+.ref_two{
+    float: left;
+    margin-top: 96px;
+    height: 539px;
+    width: 900px;
+}
+.photo2{
+    position: relative;
+    top: 0px;
+    left: 298px;
+}
+.heading2{
+    font-size: 48px;
+    line-height: 52px;
+    position: relative;
+    bottom: 331px;
+    left: 968px;
+}
+.text2{
+    font-size: 20px;
+    line-height: 30px;
+    color: #677283;   
+    position: relative;
+    left: 968px;
+    bottom: 307px;
+    width: 700px;
+}
+.Button_2{
+    height: 50px;
+    width: 305px;
+    border-radius: 50px;    
+    color: #3253dc;
+    font-size: 16px;
+    line-height: 16px;
+    border-color: #3253dc;
+}
+.button2{
+    position: relative;
+    bottom: 275px;
+    left: 968px;
+}
+
+.ref_three{
+    float: left;
+    background-color: #f6f8fa;
+    height: 536px;
+    width: 100%;    
+}
+
+.ref_four{
+    float: left;
+    margin-top: 96px;
+    height: 539px;
+    width: 900px;
+}
+.heading3{
+    font-size: 48px;
+    line-height: 52px;
+    position: relative;
+    top: 32px;
+    left: 731px;
+}
+.text3{
+    font-size: 20px;
+    line-height: 30px;
+    color: #677283;   
+    position: relative;
+    left: 731px;
+    top: 56px;
+    width: 900px;
+}
+.photo3{
+    position: relative;
+    bottom: 172px;
+    left: 298px; 
+}
+.button3{
+    position: relative;
+    bottom: 266px;
+    left: 736px;
+}
+
+.ref_five{
+    float: left;
+    background-color: #f6f8fa;
+    height: 536px;
+    width: 100%;  
+}
+.heading4{
+    margin-left: 242px;
+    margin-top: 143px;
+    font-size: 48px;
+    line-height: 52px;
+}
+.photo4{
+    position: relative;
+    bottom: 330px;
+    left: 1261px; 
+    width: 300px;
+}
+
+.ref_six{
+    float: left;
+    margin-top: 96px;
+    height: 539px;
+    width: 900px;
+}
+.button4{
+    position: relative;
+    top: 91px;
+    left: 731px;
+}
+.photo5{
+    position: relative;
+    bottom: 252px;
+    left: 298px; 
+}
+
+.ref_seven{
+    float: left;
+    background-color: #092643;
+    height: 536px;
+    width: 100%;  
+    color: white;
+}
+.photo6{
+    float: right;
+    height: 347px;
+    width: 700px;
+    position: relative;
+    left: -177px;
+    bottom: 150px;
+}
+.text4{
+    margin-left: 242px;
+    font-size: 20px;
+    line-height: 30px;
+    color: white;   
+    margin-top: 20px; 
+}
+.hyperlink2{
+    text-decoration: none;
+    text-emphasis-color: white;
+    color: white;
+    font-size: 20px;
+}
+
+.ref_eight{
+    float: left;
+    height: 536px;
+    width: 100%;    
+}
+.heading5{
+    font-size: 48px;
+    line-height: 52px;
+    position: relative;
+    top: 140px;
+    left: 968px;
+    width: 500px;
+}
+.photo7{
+    position: relative;
+    top: 44px;
+    left: 298px;
+    width:300px;
+}
+.text5{
+    font-size: 20px;
+    line-height: 30px;
+    color: #677283;   
+    position: relative;
+    left: 968px;
+    top: -187px;
+    width: 900px;
+}
+.button3{
+    height: 50px;
+    width: 305px;
+    border-radius: 50px;    
+    color: #3253dc;
+    font-size: 16px;
+    line-height: 16px;
+    border-color: #3253dc;
+    position: relative;
+    bottom: 155px;
+    left: 968px;
+}
+
+.ref_nine{
+    float: left;
+    margin-top: 96px;
+    height: 698px;
+    width: 900px;
+}
+.photo8{
+    background-image: url("https://s7d1.scene7.com/is/image/dmqualcommprod/careers-mobile_image?$QC_Responsive$&fmt=png-alpha");
+    background-size: cover;
+    height: 789px;
+    width: 901px;
+    position: relative;
+    left: 1000px;
+    bottom: 690px;
+}
+
+.onq{
+    height: 1066px;
+    width: 100%;
+    background-color: #f6f8fa;
+    background-size: cover;
+    float: left;
+}
+.article1{
+    height: 400px;
+    width: 500px;
+    border-radius: 20px;
+    background-color: white;
+    float: left;
+    position: relative;
+    left: 373px;
+    top: 135px;
+}
+.onqtitle{
+    color: #7ba0ff;
+    position: relative;
+    top: 30px;
+    left: 30px;
+    font-size: 12px;
+    line-height: 13.5px;
+    float: left;
+}
+.img1{
+    width: 500px;
+    height: 200px;
+    position: relative;
+    top: 60px;
+}
+.onqtext1{
+    color: #222222;
+    font-size: 24px;
+    line-height: 32px;
+    position: relative;
+    top: 60px;
+    padding-left: 10px;
+}
+.onqdate{
+    color: #949aa5;
+    font-size: 10px;
+    line-height: 15px;
+    float: right;
+    position: relative;
+    top: 30px;
+    right: 30px;
+}
+
+.article2{
+    height: 400px;
+    width: 500px;
+    border-radius: 20px;
+    background-color: white;
+    float: left;
+    position: relative;
+    left: 450px;
+    top: 135px;
+}
+
+.onqblogbutton{
+    width: 93px;
+    height: 32px;
+    border-radius: 50px;
+    border-color: #3253dc;
+    color: #3253dc;
+    float: left;
+    position: relative;
+    bottom: 400px;
+    left: 43%;
+}
+
+.onqblogbutton2{
+    width: 100px;
+    height: 32px;
+    border-radius: 50px;
+    border-color: #3253dc;
+    color: #3253dc;
+    float: left;
+    position: relative;
+    bottom: 400px;
+    left: 44%;
+}
+
+.disclaimer{
+    float: left;
+    color: #bbc0c8;
+    font-style: 12px;
+    line-height: 14.4px;
+    position: relative;
+    bottom: 300px;
+    padding-left: 100px;
+    width: 1400px;
+}
+
+.footer{
+    position: relative;
+    bottom: 242px;
+}
